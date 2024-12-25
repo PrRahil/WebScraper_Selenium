@@ -1,4 +1,4 @@
-/data/
-/downloads/
+notebooks/data/
+notebooks/downloads/
 venv
 chromedriver.exe
